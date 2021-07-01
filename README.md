@@ -6,7 +6,7 @@ Its key components are: scripts to read in and tile geospatial data, an implemen
 
 The workflow of the project is described by the following image.
 
-<img width="100" alt="workflow" src= https://github.com/shmh40/detectree/blob/main/workflow_010721.png > 
+<img width="1000" alt="workflow" src= https://github.com/shmh40/detectree/blob/main/workflow_010721.png > 
 
 ## Repository structure
 ```
