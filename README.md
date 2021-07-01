@@ -25,7 +25,7 @@ The workflow of the project is described by the following image.
 |   |
 │   └── tests          <- Scripts for unit tests of your functions
 │
-├── bayesian optimisation
+├── bayesian_opt
 |   |                  
 │   └── bo             <- Notebook to carry out Bayesian optimisation on the parameters of the ITCfast algorithm
 |
@@ -39,5 +39,5 @@ The workflow of the project is described by the following image.
 |   |                  
 │   └── predictions    <- Notebook to export the predictions of the Mask R-CNN model back to a geospatial format (shapefile).
 |
-└── change analysis    <- Notebooks to analyse changes in individual trees between repeat observations. 
+└── change_analysis    <- Notebooks to analyse changes in individual trees between repeat observations. 
 ```
