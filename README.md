@@ -31,7 +31,7 @@ The workflow of the project is described by the following image.
 |
 ├── models             <- Notebooks to train and test models
 |   |                  
-│   ├── mask rcnn      <- Notebook to train, test and evaluate a Mask R-CNN model.
+│   ├── mask_rcnn      <- Notebook to train, test and evaluate a Mask R-CNN model.
 |   |
 |   └── itcfast        <- Notebook to test ITCfast on an area of interest, and evaluate its performance.
 │
