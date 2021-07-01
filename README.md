@@ -4,6 +4,8 @@ This is the repository for Sebastian Hickman's AI4ER MRes project, titled 'Detec
 
 Its key components are: scripts to read in and tile geospatial data, an implementation of Mask R-CNN from Detectron2 (Wu et al., 2019) to perform tree crown delineation from RGB imagery, scripts to delineate tree crowns from LiDAR data using UAVforestR (T. Swinfield, https://github.com/swinersha/UAVforestR), and scripts to analyse the growth and mortality of identified trees from repeat observations.
 
+## Workflow
+
 The workflow of the project is described by the following image.
 
 <img width="1000" alt="workflow" src= https://github.com/shmh40/detectree/blob/main/workflow_010721.png > 
