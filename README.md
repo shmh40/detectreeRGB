@@ -6,6 +6,7 @@ Its key components are: scripts to read in and tile geospatial data, an implemen
 
 The workflow of the project is described by the following image.
 
+<img width="100" alt="workflow" src=  > 
 
 ## Repository structure
 ```
