@@ -8,7 +8,7 @@ The workflow of the project is described by the following image.
 
 
 ## Repository contents
-'''
+```
 ├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
 |
@@ -37,4 +37,4 @@ The workflow of the project is described by the following image.
 │   └── predictions    <- Notebook to export the predictions of the Mask R-CNN model back to a geospatial format (shapefile).
 |
 └── change analysis    <- Notebooks to analyse changes in individual trees between repeat observations. 
-'''
+```
