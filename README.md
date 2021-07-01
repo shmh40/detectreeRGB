@@ -31,13 +31,13 @@ The workflow of the project is described by the following image.
 |
 ├── models             <- Notebooks to train and test models
 |   |                  
-│   ├── mask rcnn      <- Notebook to train, test and evaluate a Mask R-CNN model on manually labelled tree crowns, and then predict on new RGB images.
+│   ├── mask rcnn      <- Notebook to train, test and evaluate a Mask R-CNN model.
 |   |
 |   └── itcfast        <- Notebook to test ITCfast on an area of interest, and evaluate its performance.
 │
 ├── export
 |   |                  
-│   └── predictions    <- Notebook to export the predictions of the Mask R-CNN model back to a geospatial format (shapefile).
+│   └── predictions    <- Notebook to export the predictions of the Mask R-CNN model back to a geospatial format.
 |
 └── change_analysis    <- Notebooks to analyse changes in individual trees between repeat observations. 
 ```
