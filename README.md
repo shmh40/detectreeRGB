@@ -13,6 +13,7 @@ The workflow of the project is described by the following image.
 ## Repository structure
 ```
 ├── LICENSE
+|
 ├── README.md          <- The top-level README for developers using this project.
 |
 ├── requirements       <- Directory containing the requirement files.
