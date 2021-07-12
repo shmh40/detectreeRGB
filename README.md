@@ -57,4 +57,4 @@ If you wish to train your own model, you may wish to alter the hyperparameters u
 
 ## ITCfast
 
-ITCfast can be deployed and evaluated using the notebooks provided in models/itcfast.  
+ITCfast can be deployed and evaluated using the notebooks provided in models/itcfast. The parameters of the model can be easily altered, or optimised to your own data using the scripts in bayesian_opt/bo.
