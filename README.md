@@ -49,6 +49,10 @@ The workflow of the project is described by the following image.
 
 We provide pre-trained model weights, which can be used to directly predict on your area of forest. A notebook is provided to easily deploy our pre-trained model in models/mask_rcnn. Our model was trained on 999 trees in Paracou, French Guiana, which is an area of lowland tropical forest. If you would like to train your own model, using your own manually delineated crowns, this is possible with the training notebook provided in models/mask_rcnn. This may improve performance if you are predicting on a type of forest significantly different to lowland tropical forest.
 
+Here is an example image of the predictions made by Mask R-CNN.
+
+<img width="1000" alt="workflow" src= https://github.com/shmh40/detectree/blob/main/imgs/plot_13_285520_583300.jpg > 
+
 ## Evaluating Mask R-CNN
 
 Code to evaluate both models is also provided in models/mask_rcnn. This requires some manually delineated tree crowns in your area of interest. The model is evaluated using standard COCO metrics, including Average Precision and Average Recall.
