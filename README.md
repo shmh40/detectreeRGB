@@ -69,7 +69,7 @@ ITCfast can be deployed and evaluated using the notebooks provided in models/itc
 
 Change analysis between 2014 and 2020 is carried out with the script in the chnage_analysis directory, which also produces plots given in the project report, similar to this example.
 
-<img width="800" alt="workflow" src= https://github.com/shmh40/detectree/blob/main/imgs/tree_mortality.PNG > 
+<img width="1000" alt="workflow" src= https://github.com/shmh40/detectree/blob/main/imgs/tree_mortality.PNG > 
 
 ## Tiling
 
