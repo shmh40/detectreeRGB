@@ -51,7 +51,7 @@ We provide pre-trained model weights, which can be used to directly predict on y
 
 Here is an example image of the predictions made by Mask R-CNN.
 
-<img width="1000" alt="workflow" src= https://github.com/shmh40/detectree/blob/main/imgs/plot_13_285520_583300.jpg > 
+<img width="500" alt="workflow" src= https://github.com/shmh40/detectree/blob/main/imgs/plot_13_285520_583300.jpg > 
 
 ## Evaluating Mask R-CNN
 
