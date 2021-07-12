@@ -49,8 +49,12 @@ We provide pre-trained model weights, which can be used to directly predict on y
 
 ## Evaluating Mask R-CNN
 
-Code to evaluate the model is also provided in models/mask_rcnn. This requires some manually delineated tree crowns in your area of interest. The model is evaluated using standard COCO metrics, including Average Precision and Average Recall.
+Code to evaluate both models is also provided in models/mask_rcnn. This requires some manually delineated tree crowns in your area of interest. The model is evaluated using standard COCO metrics, including Average Precision and Average Recall.
 
 ## Customising Mask R-CNN training
 
 If you wish to train your own model, you may wish to alter the hyperparameters used by Mask R-CNN while training. All hyperparameters are easily altered with our notebook. The key hyperparameters you may wish to vary include the depth of the ResNet backbone, the learning rate, and the batch size.
+
+## ITCfast
+
+ITCfast can be deployed and evaluated using the notebooks provided in models/itcfast.  
