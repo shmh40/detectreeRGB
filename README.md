@@ -42,3 +42,15 @@ The workflow of the project is described by the following image.
 |
 └── change_analysis    <- Notebooks to analyse changes in individual trees between repeat observations. 
 ```
+
+## Deploying Mask R-CNN
+
+We provide pre-trained model weights, which can be used to directly predict on your area of forest. A notebook is provided to easily deploy our pre-trained model in models/mask_rcnn. Our model was trained on 999 trees in Paracou, French Guiana, which is an area of lowland tropical forest. If you would like to train your own model, using your own manually delineated crowns, this is possible with the training notebook provided in models/mask_rcnn. This may improve performance if you are predicting on a type of forest significantly different to lowland tropical forest.
+
+## Evaluating Mask R-CNN
+
+Code to evaluate the model is also provided in models/mask_rcnn. This requires some manually delineated tree crowns in your area of interest. The model is evaluated using standard COCO metrics, including Average Precision and Average Recall.
+
+## Customising Mask R-CNN training
+
+If you wish to train your own model, you may wish to alter the hyperparameters used by Mask R-CNN while training. All hyperparameters are easily altered with our notebook. The key hyperparameters you may wish to vary include the depth of the ResNet backbone, the learning rate, and the batch size.
