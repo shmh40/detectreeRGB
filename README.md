@@ -68,3 +68,7 @@ ITCfast can be deployed and evaluated using the notebooks provided in models/itc
 ## Change Analysis    
 
 Change analysis between 2014 and 2020 is carried out with the script in the chnage_analysis directory, which also produces plots given in the project report.
+
+## Tiling
+
+The tiling directory provides a script to convert geospatial data, such as GeoTiffs and GeoJSONs into formats supported by Detectron2, png images and JSONs. The outputs of this script can then be passed into Mask R-CNN to train and test the model. 
