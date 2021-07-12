@@ -31,6 +31,7 @@ The workflow of the project is described by the following image.
 ├── bayesian_opt
 |   |                  
 │   └── bo             <- Notebook to carry out Bayesian optimisation on the parameters of the ITCfast algorithm
+|                         and script to run and evaluate ITCfast with the suggested parameters. 
 |
 ├── models             <- Notebooks to train and test models
 |   |                  
