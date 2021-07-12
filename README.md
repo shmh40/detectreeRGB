@@ -61,6 +61,6 @@ If you wish to train your own model, you may wish to alter the hyperparameters u
 
 ITCfast can be deployed and evaluated using the notebooks provided in models/itcfast. The parameters of the model can be easily altered, or optimised to your own data using the scripts in bayesian_opt/bo.
 
-## Change analysis    
+## Change Analysis    
 
 Change analysis between 2014 and 2020 is carried out with the script in the chnage_analysis directory, which also produces plots given in the project report.
