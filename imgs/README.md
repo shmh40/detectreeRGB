@@ -1,1 +1,1 @@
-# Folder containing images for this repository
+# Directory contains images for this repository
