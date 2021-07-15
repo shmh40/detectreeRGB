@@ -21,12 +21,8 @@ The workflow of the project is described by the following image.
 ├── requirements       <- Directory containing the requirement files.
 │
 ├── tiling             <- R scripts to read and tile geospatial data for subsequent analysis.
-│   |
-│   ├── data_loading   <- Scripts to download tiffs of RGB and LiDAR data, and shapefiles of manual crowns
 │   │
-│   ├── preprocessing  <- Scripts to convert raw RGB tiffs into tiled pngs, and to convert shapefiles to geojsons
-|   |
-│   └── tests          <- Scripts for unit tests of your functions
+│   └── preprocessing  <- Scripts to convert raw RGB tiffs into tiled pngs, and to convert shapefiles to geojsons
 │
 ├── bayesian_opt
 |   |                  
@@ -39,9 +35,6 @@ The workflow of the project is described by the following image.
 |   |
 |   └── itcfast        <- Notebook to test ITCfast on an area of interest, and evaluate its performance.
 │
-├── export
-|   |                  
-│   └── predictions    <- Notebook to export the predictions of the Mask R-CNN model back to a geospatial format.
 |
 └── change_analysis    <- Notebooks to analyse changes in individual trees between repeat observations. 
 ```
