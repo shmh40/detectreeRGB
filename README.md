@@ -1,5 +1,16 @@
 # detectree
 
+## To do
+
+- Integrated pipeline
+    - Input georeferenced polygons to json
+    - Output images to georeferenced polygons
+- Integrate wandb.ai to monitor runs and hyperparameter tuning
+- Output polygons with % confidence
+- Adding additional bands?
+
+## About
+
 This is the repository for Sebastian Hickman's AI4ER MRes project, titled 'Detecting changes in tall tree height with machine learning, LiDAR, and RGB imagery'.
 
 Its key components are: scripts to read in and tile geospatial data, an implementation of Mask R-CNN from Detectron2 (Wu et al., 2019) to perform tree crown delineation from RGB imagery, scripts to delineate tree crowns from LiDAR data using UAVforestR (T. Swinfield, https://github.com/swinersha/UAVforestR), and scripts to analyse the growth and mortality of identified trees from repeat observations. The code includes notebooks written in Python and R scripts.
