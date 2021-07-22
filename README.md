@@ -5,9 +5,13 @@
 - Integrated pipeline
     - Input georeferenced polygons to json
     - Output images to georeferenced polygons
+- Resolve scale issues
+    - Train with a greater variety of resolutions
 - Integrate wandb.ai to monitor runs and hyperparameter tuning
 - Output polygons with % confidence
 - Adding additional bands?
+    - Replacing a band with red-edge/NIR
+    - Increasing the number of bands to > 3
 
 ## About
 
