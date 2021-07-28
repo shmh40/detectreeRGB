@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hickman"
+  given-names: "S. H. M."
+- family-names: "Ball"
+  given-names: "J. G. C."
+title: "detectree"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-07-28
+url: "https://github.com/shmh40/detectree"
