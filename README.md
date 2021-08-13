@@ -12,6 +12,7 @@
 - Adding additional bands?
     - Replacing a band with red-edge/NIR
     - Increasing the number of bands to > 3
+- *do change analysis in python*
 
 ## About
 
