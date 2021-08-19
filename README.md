@@ -5,6 +5,8 @@
 - Integrated pipeline
     - Input georeferenced polygons to json
     - Output images to georeferenced polygons
+- Independent testing routine
+- Create transferable environment (docker, conda...)
 - Resolve scale issues
     - Train with a greater variety of resolutions
 - Integrate wandb.ai to monitor runs and hyperparameter tuning
