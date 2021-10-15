@@ -1,5 +1,5 @@
 ### Implementation of detectReeGB that works neatly on Google Colab
 
-This should allow anyone to use these scripts. 
+This should allow anyone to use this method regardless of what resources are available to them. 
 
 This has been tested using Colab Pro - it is likely that using free Colab will result in timeouts, as usage is limited with the free version.
