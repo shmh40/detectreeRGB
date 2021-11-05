@@ -1,4 +1,4 @@
-# detectree
+# detectreeRGB
 
 This is the repository for Sebastian Hickman's AI4ER MRes project, titled 'Detecting changes in tall tree height with machine learning, LiDAR, and RGB imagery'.
 
