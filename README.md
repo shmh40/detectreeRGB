@@ -6,6 +6,10 @@ Its key components are: scripts to read in and tile geospatial data, an implemen
 
 The data used to evaluate and test Mask R-CNN and ITCfast are freely available at https://zenodo.org/record/5090039.
 
+## Colab scripts
+
+Scripts to run this project easily in Google Colab can be found in the colab directory in the *dev branch*.
+
 ## Workflow
 
 The workflow of the project is described by the following image.
